@@ -42,7 +42,7 @@ By completing this project, you will:
 ---
 
 ## 📂 Project Structure (Example)
-```bash
+
 airbnb-clone-project/
 │
 ├── public/
@@ -58,3 +58,29 @@ airbnb-clone-project/
 ├── README.md
 ├── package.json
 └── ...
+## UI/UX Design Planning
+
+### Design Goals
+- Create an easy and intuitive booking experience for users  
+- Maintain visual consistency across all application pages  
+- Ensure fast loading times for the site  
+- Focus on responsive design that works well on different devices and screen sizes  
+
+### Key Features to Implement
+- Ability to search for properties and filter results based on various criteria  
+- Display detailed property information with images and a booking form  
+- Simplified and secure payment and booking process  
+- User authentication and login system  
+
+### Description of Primary Pages
+
+| Page                  | Description                                             |
+|-----------------------|---------------------------------------------------------|
+| Property Listing View  | Grid display of available properties with filtering options |
+| Listing Detailed View  | Page showing detailed property information with images and booking form |
+| Simple Checkout View   | Simplified payment and booking confirmation page         |
+
+### Importance of User-Friendly Design in a Booking System
+A user-friendly booking system reduces obstacles that users face during their journey on the site, which increases conversion rates and enhances customer satisfaction. Having a clear interface, simple navigation, and responsive design greatly contributes to the success of the application and attracts users.
+
+```bash
