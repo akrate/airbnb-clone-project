@@ -83,4 +83,58 @@ airbnb-clone-project/
 ### Importance of User-Friendly Design in a Booking System
 A user-friendly booking system reduces obstacles that users face during their journey on the site, which increases conversion rates and enhances customer satisfaction. Having a clear interface, simple navigation, and responsive design greatly contributes to the success of the application and attracts users.
 
+## Project Roles and Responsibilities
+
+### Project Manager
+- Oversees the overall project planning, execution, and delivery.
+- Manages timelines, resources, and stakeholder communication.
+- Ensures the project stays within scope, budget, and schedule.
+- Facilitates risk management and resolves any project issues.
+
+### Frontend Developers
+- Develop the user-facing part of the application.
+- Implement UI designs using technologies like HTML, CSS, and JavaScript frameworks.
+- Ensure responsiveness and cross-browser compatibility.
+- Collaborate with designers and backend developers for seamless integration.
+
+### Backend Developers
+- Build and maintain the server-side logic, databases, and APIs.
+- Ensure application performance, security, and scalability.
+- Integrate frontend components with server-side logic.
+- Handle data storage, retrieval, and business logic implementation.
+
+### Designers
+- Create wireframes, mockups, and prototypes based on project requirements.
+- Develop the visual style and user experience (UX) guidelines.
+- Collaborate closely with frontend developers to implement design vision.
+- Ensure consistency and accessibility across the product.
+
+### QA/Testers
+- Design and execute test plans, test cases, and automated tests.
+- Identify, document, and track bugs or issues.
+- Verify that the product meets functional and non-functional requirements.
+- Work closely with developers to ensure quality and reliability.
+
+### DevOps Engineers
+- Manage infrastructure, deployment pipelines, and CI/CD processes.
+- Monitor system performance, availability, and security.
+- Automate repetitive tasks and ensure smooth deployment.
+- Collaborate with developers to optimize release cycles and rollback plans.
+
+### Product Owner
+- Defines and prioritizes the product backlog and feature requirements.
+- Acts as the liaison between stakeholders and the development team.
+- Makes decisions on feature trade-offs and project scope.
+- Ensures the product delivers maximum value to users and stakeholders.
+
+### Scrum Master
+- Facilitates Agile ceremonies such as daily stand-ups, sprint planning, and retrospectives.
+- Removes blockers and supports the development team’s productivity.
+- Promotes Agile principles and continuous improvement.
+- Acts as a coach and mediator within the team.
+
+---
+
+Each role is critical to the success of the project, contributing unique expertise and collaborating closely to deliver a high-quality product efficiently.
+
 ```bash
