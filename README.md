@@ -137,4 +137,25 @@ A user-friendly booking system reduces obstacles that users face during their jo
 
 Each role is critical to the success of the project, contributing unique expertise and collaborating closely to deliver a high-quality product efficiently.
 
+
+## UI Component Patterns
+
+### Navbar
+- A persistent navigation bar displayed at the top of the application.
+- Provides links to key sections/pages such as Home, Properties, About, and Contact.
+- Includes branding elements like the logo and possibly user account actions (login/profile).
+- Responsive design to adapt to different screen sizes, including a collapsible menu on mobile devices.
+
+### Property Card
+- A reusable card component that displays summary information about a property.
+- Typically includes a property image, title, location, price, and key features (e.g., bedrooms, bathrooms, area).
+- Supports user interactions such as clicking to view details or saving favorites.
+- Designed for use in property listings or search results, ensuring a consistent look and feel.
+
+### Footer
+- A fixed or static section at the bottom of the page.
+- Contains links to important pages like Privacy Policy, Terms of Service, and Contact Information.
+- May include social media icons, newsletter subscription, or copyright information.
+- Styled to complement the overall site design and provide a consistent closing element on each page.
+
 ```bash
